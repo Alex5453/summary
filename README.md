@@ -4,7 +4,7 @@
 email: badarhael@gmail.com
 Telegram: @badarhael
 
-![Alt text](image.png)
+
 
 QA-инженер/тестировщик
 
